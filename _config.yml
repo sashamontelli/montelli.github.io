@@ -1,12 +1,12 @@
 title: "Your Name - Academic Profile"
 description: "Personal academic website with research interests and publications"
 baseurl: "" # Leave this empty for GitHub Pages with user/organization sites
-url: "https://username.github.io" # Your GitHub Pages URL
+url: "https://sashamontelli.github.io" # Your GitHub Pages URL
 theme: minima # Optional, to use a minimal theme provided by Jekyll
 author: 
   name: "Your Name"
   email: "your.email@domain.com"
-  github: "https://github.com/yourusername"
+  github: "https://github.com/sashamontelli"
   
 # Exclude the following files from the site
 exclude:
